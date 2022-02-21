@@ -3,4 +3,5 @@
 * Assignment 2: Data Structures
 * Assignment 3: Data Structures
 * Assignment 4: classes, KNN spam email classifier
-* Assignment 5:
+* Assignment 5: numpy
+* Excerises - Pandas I: WHO Covid19 data manipulation
