@@ -1,7 +1,5 @@
-## Leiden University Data Science Essentials Coursework and Assignments
-* Assignemnt 1: Data Structures
-* Assignment 2: Data Structures
-* Assignment 3: Data Structures
+## Coursework and Assignments
 * Assignment 4: classes, KNN spam email classifier
 * Assignment 5: numpy
 * Excerises - Pandas I: WHO Covid19 data manipulation
+* KNN, knn.py, metrics.py: KNN for numbers dlcourse.ai
